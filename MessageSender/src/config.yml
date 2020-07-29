@@ -7,7 +7,7 @@
 #                                                      #
 ########################################################
 
-
+# Discord Token #
 discord-bot-token: "bot token"
 
 # Chat room #
