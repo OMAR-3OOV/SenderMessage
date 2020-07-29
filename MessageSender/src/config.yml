@@ -8,12 +8,12 @@
 ########################################################
 
 
-discord-bot-token: "NzMwMDY2NTA5OTEyODY2OTU2.XxZ3Pw.pVBKnUvraLTwZTSDvlaGRX5aRVs"
+discord-bot-token: "bot token"
 
 # Chat room #
-text-channel-id-message: "730072868146249810"
-text-channel-id-join-left: "730174417946279964"
-text-channel-id-log: "730174243752509481"
+text-channel-id-message: "the channel message"
+text-channel-id-join-left: "the channel join and leave message"
+text-channel-id-log: "the channel server log"
 
 # utils #
 
