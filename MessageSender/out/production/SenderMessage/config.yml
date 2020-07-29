@@ -7,13 +7,13 @@
 #                                                      #
 ########################################################
 
-
-discord-bot-token: "NzMwMDY2NTA5OTEyODY2OTU2.XxZ3Pw.pVBKnUvraLTwZTSDvlaGRX5aRVs"
+# Chat room #
+discord-bot-token: "-"
 
 # Chat room #
-text-channel-id-message: "730072868146249810"
-text-channel-id-join-left: "730174417946279964"
-text-channel-id-log: "730174243752509481"
+text-channel-id-message: "-"
+text-channel-id-join-left: "-"
+text-channel-id-log: "-"
 
 # utils #
 
