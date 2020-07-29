@@ -1,0 +1,8 @@
+name: SenderMessage
+version: 1.0.2
+auther: 1Rose
+main: system.Core
+commands:
+  banned:
+  blacklist_word:
+  mute:
