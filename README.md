@@ -1,11 +1,9 @@
 # SenderMessage
 spigot / jda plugin
-____________________________
+#____________________________
 # Plugin name : SenderMessage
 
 # Versions : v1.0.3
 
-# Another Real : Omar
-
-# Another Mc : sxxe
-____________________________
+# Discord : OMAR#3772
+#____________________________
