@@ -1,9 +1,11 @@
 # SenderMessage
-spigot / jda plugin
+Spigot / JDA plugin
 ____________________________
+
 # Plugin name : SenderMessage
 
 # Versions : v1.0.4
 
-# Discord : OMAR#3772
+# API'S : SPIGOT API & DISCORD API
 ____________________________
+
