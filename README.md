@@ -1,4 +1,4 @@
-# SenderMessage
+# SenderMessage (This project outdated)
 Spigot / JDA plugin
 ____________________________
 
